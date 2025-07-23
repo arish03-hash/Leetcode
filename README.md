@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arish03-hash/Leetcode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/arish03-hash/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arish03-hash/Leetcode/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/arish03-hash/Leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/arish03-hash/Leetcode/tree/master/0047-permutations-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/arish03-hash/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
