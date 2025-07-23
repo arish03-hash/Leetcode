@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/arish03-hash/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/arish03-hash/Leetcode/tree/master/0011-container-with-most-water) |
 ## Greedy
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/arish03-hash/Leetcode/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/arish03-hash/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/arish03-hash/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
