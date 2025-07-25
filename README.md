@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/arish03-hash/Leetcode/tree/master/0047-permutations-ii) |
+| [0242-valid-anagram](https://github.com/arish03-hash/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arish03-hash/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/arish03-hash/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/arish03-hash/Leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/arish03-hash/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/arish03-hash/Leetcode/tree/master/0812-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/arish03-hash/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
