@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/arish03-hash/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arish03-hash/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/arish03-hash/Leetcode/tree/master/0066-plus-one) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arish03-hash/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arish03-hash/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arish03-hash/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
