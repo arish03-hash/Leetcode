@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arish03-hash/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/arish03-hash/Leetcode/tree/master/0011-container-with-most-water) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/arish03-hash/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arish03-hash/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/arish03-hash/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/arish03-hash/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/arish03-hash/Leetcode/tree/master/0812-rotate-string) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,8 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/arish03-hash/Leetcode/tree/master/0214-shortest-palindrome) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/arish03-hash/Leetcode/tree/master/0214-shortest-palindrome) |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 <!---LeetCode Topics End-->
