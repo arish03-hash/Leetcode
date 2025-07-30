@@ -1,3 +1,6 @@
+#################################################################################
+#Rabin Karp
+#################################################################################
 class Solution {
     public String shortestPalindrome(String s) {
         int prefix = 0;
@@ -21,3 +24,30 @@ class Solution {
         return str.reverse().toString() + s;
     }
 }
+
+#######################################################################################
+
+class Solution {
+    public Boolean isPalindrome(String s, int l, int r){
+        while(l<=r){
+            if(s.charAt(l) != s.charAt(r))
+                return false;
+            l++;
+            r--;
+        }
+        return true;
+    }
+
+    public String shortestPalindrome(String s) {
+        for(int i=s.length() - 1; i>=0; i--){
+            if(isPalindrome(s, 0, i)){
+                String suffix = s.substring(i+1);
+                StringBuilder sb = new StringBuilder(suffix);
+                return sb.reverse().toString() + s;
+            }
+        }
+        return "";
+    }
+}
+
+############################################################################################
