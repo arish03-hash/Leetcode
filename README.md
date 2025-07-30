@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arish03-hash/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/arish03-hash/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/arish03-hash/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/arish03-hash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/arish03-hash/Leetcode/tree/master/0812-rotate-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/arish03-hash/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/arish03-hash/Leetcode/tree/master/0812-rotate-string) |
 ## Hash Table
 |  |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arish03-hash/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/arish03-hash/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/arish03-hash/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
