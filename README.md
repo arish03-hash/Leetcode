@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arish03-hash/Leetcode/tree/master/0011-container-with-most-water) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/arish03-hash/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3692-shortest-matching-substring](https://github.com/arish03-hash/Leetcode/tree/master/3692-shortest-matching-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/arish03-hash/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/arish03-hash/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3692-shortest-matching-substring](https://github.com/arish03-hash/Leetcode/tree/master/3692-shortest-matching-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/arish03-hash/Leetcode/tree/master/0812-rotate-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/arish03-hash/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3692-shortest-matching-substring](https://github.com/arish03-hash/Leetcode/tree/master/3692-shortest-matching-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/arish03-hash/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3692-shortest-matching-substring](https://github.com/arish03-hash/Leetcode/tree/master/3692-shortest-matching-substring) |
 <!---LeetCode Topics End-->
