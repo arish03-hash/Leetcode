@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arish03-hash/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/arish03-hash/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/arish03-hash/Leetcode/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arish03-hash/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arish03-hash/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/arish03-hash/Leetcode/tree/master/0812-rotate-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/arish03-hash/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/arish03-hash/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/arish03-hash/Leetcode/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3692-shortest-matching-substring](https://github.com/arish03-hash/Leetcode/tree/master/3692-shortest-matching-substring) |
 ## Hash Table
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/arish03-hash/Leetcode/tree/master/0214-shortest-palindrome) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/arish03-hash/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/arish03-hash/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/arish03-hash/Leetcode/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/arish03-hash/Leetcode/tree/master/0214-shortest-palindrome) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/arish03-hash/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/arish03-hash/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/arish03-hash/Leetcode/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Binary Search
 |  |
