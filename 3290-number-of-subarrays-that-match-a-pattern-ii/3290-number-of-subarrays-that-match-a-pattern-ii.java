@@ -39,7 +39,7 @@ class Solution {
         int[] kmpVec = kmp(s);
         // for(int i  =0; i<kmpVec.length; i++)
         //     System.out.print(kmpVec[i]);
-        for(int i = m; i<kmpVec.length; i++)
+        for(int i = 2*m; i<kmpVec.length; i++)
             if(kmpVec[i] == m)
                 ans++;
 
