@@ -4,10 +4,10 @@ class Solution {
         int m = pattern.length;
         int ans = 0;
 
-        for(int i = 0; i<=n-m; i++){
+        for(int i = 0; i<n-m; i++){
             int flag = 1;
-            if(i + m >= n)
-                break;
+            // if(i + m >= n)
+            //     break;
             for(int j = i; j-i < m && j + 1<n ;j++){
                 if((pattern[j - i] == -1) && (nums[j] > nums[j + 1]))
                     continue;
