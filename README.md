@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/arish03-hash/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arish03-hash/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/arish03-hash/Leetcode/tree/master/0066-plus-one) |
+| [1524-string-matching-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arish03-hash/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/arish03-hash/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/arish03-hash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/arish03-hash/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arish03-hash/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1524-string-matching-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/arish03-hash/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/arish03-hash/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arish03-hash/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arish03-hash/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/arish03-hash/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/arish03-hash/Leetcode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/arish03-hash/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/arish03-hash/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/arish03-hash/Leetcode/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
