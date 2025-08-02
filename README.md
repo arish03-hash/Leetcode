@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arish03-hash/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2689-rearranging-fruits](https://github.com/arish03-hash/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/arish03-hash/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/arish03-hash/Leetcode/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arish03-hash/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arish03-hash/Leetcode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/arish03-hash/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/arish03-hash/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2689-rearranging-fruits](https://github.com/arish03-hash/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arish03-hash/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/arish03-hash/Leetcode/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/arish03-hash/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/arish03-hash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2689-rearranging-fruits](https://github.com/arish03-hash/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/arish03-hash/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/arish03-hash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arish03-hash/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2689-rearranging-fruits](https://github.com/arish03-hash/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arish03-hash/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
