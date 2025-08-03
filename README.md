@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/arish03-hash/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/arish03-hash/Leetcode/tree/master/0066-plus-one) |
 | [1524-string-matching-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/arish03-hash/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arish03-hash/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2689-rearranging-fruits](https://github.com/arish03-hash/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/arish03-hash/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/arish03-hash/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Rolling Hash
 |  |
@@ -154,7 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/arish03-hash/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/arish03-hash/Leetcode/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/arish03-hash/Leetcode/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3692-shortest-matching-substring](https://github.com/arish03-hash/Leetcode/tree/master/3692-shortest-matching-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/arish03-hash/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
