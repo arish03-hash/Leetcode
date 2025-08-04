@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/arish03-hash/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arish03-hash/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/arish03-hash/Leetcode/tree/master/0066-plus-one) |
+| [0940-fruit-into-baskets](https://github.com/arish03-hash/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1524-string-matching-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/arish03-hash/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/arish03-hash/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/arish03-hash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0940-fruit-into-baskets](https://github.com/arish03-hash/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arish03-hash/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2689-rearranging-fruits](https://github.com/arish03-hash/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arish03-hash/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/arish03-hash/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/arish03-hash/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
