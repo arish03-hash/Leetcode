@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/arish03-hash/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/arish03-hash/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arish03-hash/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2478-longest-nice-subarray](https://github.com/arish03-hash/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2689-rearranging-fruits](https://github.com/arish03-hash/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/arish03-hash/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/arish03-hash/Leetcode/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/arish03-hash/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2478-longest-nice-subarray](https://github.com/arish03-hash/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/arish03-hash/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/arish03-hash/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2478-longest-nice-subarray](https://github.com/arish03-hash/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Simulation
 |  |
 | ------- |
